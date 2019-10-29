@@ -9,7 +9,7 @@ Description: It provides easy internationalization of Shiny
     applications. It can be used as standalone translation package
     to translate reports, interactive visualizations or
     graphical elements as well.
-Depends: R (>= 3.3.0)
+Depends: R (>= 3.3.1)
 Imports: yaml,
          jsonlite,
          methods
